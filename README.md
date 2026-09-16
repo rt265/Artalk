@@ -22,6 +22,11 @@ Artalk is an intuitive yet feature-rich comment system, ready for immediate depl
 - 🐳 One-click deployment via Docker, ensuring ease and speed
 - 🌈 Open-source software, self-hosted with privacy as a priority
 
+> [!note]
+> I fork this project from [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk). The upstream does not support some features, and update speed is slow.
+>
+> This forked project is for my PERSONAL use. I will try to maintain it. However, I cannot guarantee the stability or security of this project.
+
 ## Features
 
 <!-- prettier-ignore-start -->
